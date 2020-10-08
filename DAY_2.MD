@@ -60,12 +60,69 @@
 
 ### 3. Devices
 
-    i. Control System
-    i. ID, FD, Fuel Fan(Solid fuel)
-    i. Economizer
-    i. Superheater
-    i. Desuperheater
-    i. Soot blower
-    i. Dust collector
-    i. Dust conveyor
-    i. Chinmey
+    1. Control System
+    2. ID, FD, Fuel Fan(Solid fuel)
+    3. Economizer
+    4. Superheater
+    5. Desuperheater
+    6. Soot blower
+    7. Dust collector
+    8. Dust conveyor
+    9. Chinmey
+
+
+## CONSTRUCTION OF BOILER
+
+### 1. Hydrostatic Test (Reg. 72 SB & UPV)
+
+1. Precaution
+      - before HT (Bleeding process)
+      - staged giving pressure before holding time
+      - slow remove pressure to avoid vacuum
+
+2. Hydrostatic test
+      - /3 for required test pressure
+      - Increase pressure by stages
+      - Holding time 20 - 30 minutes
+      - Then release pressure by stages also
+
+3. Refractory
+4. Installation of insulation
+      - Fire bricks
+      - Castables
+      - Rockkwools
+      - Cover plate
+
+5. Dry/Boiling Out
+      - To heat the refractory
+      - Prevent the collapse of refractory
+
+
+
+## WATER TREATMENT (Reg. 43)
+
+1. Water specification
+      - pH
+      - Conductivity
+      - Total Dissolved Solid (TDS)
+      - Dissolved oxygen
+      - Total Iron
+      - Silica
+          - Susah untuk heat transfer bila melekat dalam tube
+      - Caustic
+          - To control oxygen dalam air
+      - Hardness
+          - Demin water
+          - cation, anion
+
+2. External Treatment
+3. Internal Treatment
+      - Sodium Sulfite - Oxygen
+      - Sodium Phospate/sodium bicarbonate - pH
+4. Condensate water
+      - Steam turbine
+      - Heater
+
+
+
+
