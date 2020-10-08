@@ -39,32 +39,46 @@
 
 1. Material for Boiler
 2. Material Properties
+
       - Hardness
       - Ductility
       - Elasticity
       - Plasticity
       - Brittleness
+      
+      
 3. Fabrication Method
+
       - Forging
       - Rolling
       - Bending
       - Drawing
       - Extrusion
       - Forming
+      
+      
 4. Fabrication Process
+
       - Cold working
       - Hot working
+      
+      
 5. Material Failure
+
       - Fatigue
       - Creep
       - Fracture
       - Corrosion
+      
+      
 6. Material Testing 
+
       - Destructive testing
             - Tensile (strength)
             - Bending (fracture)
             - Shear (charpy impact test)
             - Hardness (Rockwell test)
+            
       - Non Destructive testing
             - Visual inspection
             - Dye penetrant
